@@ -1,0 +1,200 @@
+[
+    {
+        "restaurant_name": "Berimbau Brazilian Kitchen",
+        "google_map_link_for_restaurant": "https://www.google.com/maps/place/Berimbau+Brazilian+Kitchen/data=!4m7!3m6!1s0x89c25992f7b499a5:0x91869620d8f4ec19!8m2!3d40.7301198!4d-74.0036057!16s%2Fg%2F1tdk1htm!19sChIJpZm095JZwokRGez02CCWhpE?authuser=0&hl=en&rclk=1",
+        "rating": null,
+        "number_of_reviews": null,
+        "address": "43 Carmine St, New York, NY 10014, United States",
+        "website": "berimbaunyc.com",
+        "phone": "+12124010021",
+        "category": "Brazilian restaurant",
+        "Opening_hours": "11:30 AM WED"
+    },
+    {
+        "restaurant_name": "JennaConnects",
+        "google_map_link_for_restaurant": "https://www.google.com/maps/place/JennaConnects/data=!4m7!3m6!1s0x89c25b73ab157dc9:0x44979d5b5c6f241a!8m2!3d40.7019044!4d-73.9844235!16s%2Fg%2F11q1h88r5f!19sChIJyX0Vq3NbwokRGiRvXFudl0Q?authuser=0&hl=en&rclk=1",
+        "rating": 4.5,
+        "number_of_reviews": 958,
+        "address": "43 Carmine St, New York, NY 10014, United States",
+        "website": "berimbaunyc.com",
+        "phone": "+12124010021",
+        "category": "Brazilian restaurant",
+        "Opening_hours": "9 AM"
+    },
+    {
+        "restaurant_name": "Marc Forgione",
+        "google_map_link_for_restaurant": "https://www.google.com/maps/place/Marc+Forgione/data=!4m7!3m6!1s0x89c25a1efddc2285:0x100f8edce1088179!8m2!3d40.7164938!4d-74.0096073!16s%2Fg%2F1wf39jmx!19sChIJhSLc_R5awokReYEI4dyODxA?authuser=0&hl=en&rclk=1",
+        "rating": 2.0,
+        "number_of_reviews": 1,
+        "address": "79 Bridge St, Brooklyn, NY 11201, United States",
+        "website": "jennaconnects.com",
+        "phone": "+12129419401",
+        "category": "Marketing agency",
+        "Opening_hours": "5 PM"
+    },
+    {
+        "restaurant_name": "Le Coucou",
+        "google_map_link_for_restaurant": "https://www.google.com/maps/place/Le+Coucou/data=!4m7!3m6!1s0x89c25989f3630ecb:0xd048cf49523f429d!8m2!3d40.7191167!4d-74.0001861!16s%2Fg%2F11clvbwgj9!19sChIJyw5j84lZwokRnUI_UknPSNA?authuser=0&hl=en&rclk=1",
+        "rating": 4.6,
+        "number_of_reviews": 579,
+        "address": "138 Lafayette St, New York, NY 10013, United States",
+        "website": "lecoucou.com",
+        "phone": "+12122714252",
+        "category": "French restaurant",
+        "Opening_hours": "11:30 AM"
+    },
+    {
+        "restaurant_name": "Schilling Restaurant & Bar",
+        "google_map_link_for_restaurant": "https://www.google.com/maps/place/Schilling+Restaurant+%26+Bar/data=!4m7!3m6!1s0x89c25a10ea3a7b65:0xfc9469329c17318b!8m2!3d40.7085845!4d-74.0140166!16s%2Fg%2F11cn8tny7q!19sChIJZXs66hBawokRizEXnDJplPw?authuser=0&hl=en&rclk=1",
+        "rating": 4.5,
+        "number_of_reviews": 1419,
+        "address": "109 Washington St, New York, NY 10006, United States",
+        "website": "schillingnyc.com",
+        "phone": "+12124061200",
+        "category": "French restaurant",
+        "Opening_hours": "12 PM"
+    },
+    {
+        "restaurant_name": "The Restaurant",
+        "google_map_link_for_restaurant": "https://www.google.com/maps/place/The+Restaurant/data=!4m7!3m6!1s0x89c2594f6db7295d:0x54166e2a9ffa1529!8m2!3d40.7560837!4d-73.994125!16s%2Fg%2F11h5nxwcdv!19sChIJXSm3bU9ZwokRKRX6nypuFlQ?authuser=0&hl=en&rclk=1",
+        "rating": 4.4,
+        "number_of_reviews": 440,
+        "address": "506 9th Ave, New York, NY 10018, United States",
+        "website": "therestaurants.us",
+        "phone": "+12125644950",
+        "category": "Austrian restaurant",
+        "Opening_hours": "11 AM"
+    },
+    {
+        "restaurant_name": "Daniel",
+        "google_map_link_for_restaurant": "https://www.google.com/maps/place/Daniel/data=!4m7!3m6!1s0x89c258ee8e46d6d3:0x947c96d0b0de75c!8m2!3d40.7668083!4d-73.9675769!16s%2Fm%2F0py0rrc!19sChIJ09ZGju5YwokRXOcNC23JRwk?authuser=0&hl=en&rclk=1",
+        "rating": 4.2,
+        "number_of_reviews": 197,
+        "address": "506 9th Ave, New York, NY 10018, United States",
+        "website": "therestaurants.us",
+        "phone": "+12125644950",
+        "category": "Restaurant",
+        "Opening_hours": "5 PM"
+    },
+    {
+        "restaurant_name": "Trinity Place",
+        "google_map_link_for_restaurant": "https://www.google.com/maps/place/Trinity+Place/data=!4m7!3m6!1s0x89c25a174200f0e3:0x592ab3bc5425b6cd!8m2!3d40.708882!4d-74.0114326!16s%2Fg%2F1tjmfkz8!19sChIJ4_AAQhdawokRzbYlVLyzKlk?authuser=0&hl=en&rclk=1",
+        "rating": 4.6,
+        "number_of_reviews": 1879,
+        "address": "60 E 65th St, New York, NY 10065, United States",
+        "website": "danielnyc.com",
+        "phone": "+12122880033",
+        "category": "French restaurant",
+        "Opening_hours": "11:30 AM"
+    },
+    {
+        "restaurant_name": "Le Bernardin",
+        "google_map_link_for_restaurant": "https://www.google.com/maps/place/Le+Bernardin/data=!4m7!3m6!1s0x89c25947ea10b457:0x6548e99cd73a1e6b!8m2!3d40.7614218!4d-73.9817558!16s%2Fm%2F02qsq9d!19sChIJV7QQ6kdZwokRax4615zpSGU?authuser=0&hl=en&rclk=1",
+        "rating": 4.4,
+        "number_of_reviews": 1236,
+        "address": "115 Broadway, New York, NY 10006, United States",
+        "website": "trinityplacenyc.com",
+        "phone": "+12129640939",
+        "category": "American restaurant",
+        "Opening_hours": "12 PM"
+    },
+    {
+        "restaurant_name": "Crown Shy",
+        "google_map_link_for_restaurant": "https://www.google.com/maps/place/Crown+Shy/data=!4m7!3m6!1s0x89c25a16344bffff:0xd7c97b5c890e7912!8m2!3d40.7065047!4d-74.0077715!16s%2Fg%2F11h3mwlbnz!19sChIJ__9LNBZawokREnkOiVx7ydc?authuser=0&hl=en&rclk=1",
+        "rating": 4.6,
+        "number_of_reviews": 2831,
+        "address": "155 W 51st St, New York, NY 10019, United States",
+        "website": "le-bernardin.com",
+        "phone": "+12125541515",
+        "category": "French restaurant",
+        "Opening_hours": "5:30 PM"
+    },
+    {
+        "restaurant_name": "La Rotisserie",
+        "google_map_link_for_restaurant": "https://www.google.com/maps/place/La+Rotisserie/data=!4m7!3m6!1s0x89c259a22aa22a6d:0xc66f324c941879a1!8m2!3d40.738574!4d-73.9889029!16s%2Fg%2F11bwh5rv_r!19sChIJbSqiKqJZwokRoXkYlEwyb8Y?authuser=0&hl=en&rclk=1",
+        "rating": 4.6,
+        "number_of_reviews": 1019,
+        "address": "30 E 20th St, New York, NY 10003, United States",
+        "website": null,
+        "phone": "+12122677426",
+        "category": "American restaurant",
+        "Opening_hours": "5:30 PM"
+    },
+    {
+        "restaurant_name": "1803 NYC",
+        "google_map_link_for_restaurant": "https://www.google.com/maps/place/1803+NYC/data=!4m7!3m6!1s0x89c25a1f689722d3:0x16683d41746a61e9!8m2!3d40.7154526!4d-74.0072701!16s%2Fg%2F11d_tqq6n7!19sChIJ0yKXaB9awokR6WFqdEE9aBY?authuser=0&hl=en&rclk=1",
+        "rating": 4.5,
+        "number_of_reviews": 404,
+        "address": "82 Reade St, New York, NY 10007, United States",
+        "website": "1803nyc.com",
+        "phone": "+12122673000",
+        "category": "Bistro",
+        "Opening_hours": "11:30 AM"
+    },
+    {
+        "restaurant_name": "P.J. Clarke's On The Hudson",
+        "google_map_link_for_restaurant": "https://www.google.com/maps/place/P.J.+Clarke%27s+On+The+Hudson/data=!4m7!3m6!1s0x89c25a1b0cd3c8cb:0xe29a00ff230959b8!8m2!3d40.7137112!4d-74.0162387!16s%2Fg%2F1w_vp5y6!19sChIJy8jTDBtawokRuFkJI_8AmuI?authuser=0&hl=en&rclk=1",
+        "rating": 4.5,
+        "number_of_reviews": 1286,
+        "address": "82 Reade St, New York, NY 10007, United States",
+        "website": "1803nyc.com",
+        "phone": "+12122673000",
+        "category": "Creole restaurant",
+        "Opening_hours": "11:30 AM"
+    },
+    {
+        "restaurant_name": "Bubby's",
+        "google_map_link_for_restaurant": "https://www.google.com/maps/place/Bubby%27s/data=!4m7!3m6!1s0x89c259f568ae3a11:0x4de0e0aa48068655!8m2!3d40.719819!4d-74.0083829!16s%2Fm%2F0_xvvps!19sChIJETquaPVZwokRVYYGSKrg4E0?authuser=0&hl=en&rclk=1",
+        "rating": 4.2,
+        "number_of_reviews": 2455,
+        "address": "250 Vesey St, New York, NY 10281, United States",
+        "website": "pjclarkes.com",
+        "phone": "+12122851500",
+        "category": "American restaurant",
+        "Opening_hours": "8 AM"
+    },
+    {
+        "restaurant_name": "Spice Symphony",
+        "google_map_link_for_restaurant": "https://www.google.com/maps/place/Spice+Symphony/data=!4m7!3m6!1s0x89c2590874185747:0xb6f61520ad3440bd!8m2!3d40.7559053!4d-73.9715702!16s%2Fg%2F1hhj4nt01!19sChIJR1cYdAhZwokRvUA0rSAV9rY?authuser=0&hl=en&rclk=1",
+        "rating": 4.4,
+        "number_of_reviews": 5591,
+        "address": "120 Hudson St, New York, NY 10013, United States",
+        "website": "bubbys.com",
+        "phone": "+12122190666",
+        "category": "American restaurant",
+        "Opening_hours": "11 AM"
+    },
+    {
+        "restaurant_name": "Nobu Downtown",
+        "google_map_link_for_restaurant": "https://www.google.com/maps/place/Nobu+Downtown/data=!4m7!3m6!1s0x89c25a19b684cf65:0xd2962999c22f1521!8m2!3d40.7107732!4d-74.0095804!16s%2Fg%2F11dxlg8srv!19sChIJZc-EthlawokRIRUvwpkpltI?authuser=0&hl=en&rclk=1",
+        "rating": 4.4,
+        "number_of_reviews": 1520,
+        "address": "150 E 50th St, New York, NY 10022, United States",
+        "website": "spicesymphony.com",
+        "phone": "+12123004869",
+        "category": "Indian restaurant",
+        "Opening_hours": "5:30 PM"
+    },
+    {
+        "restaurant_name": "Da Claudio",
+        "google_map_link_for_restaurant": "https://www.google.com/maps/place/Da+Claudio/data=!4m7!3m6!1s0x89c25a186e558cf7:0xc0d68e8efd5b3468!8m2!3d40.710834!4d-74.0076111!16s%2Fg%2F11b5yt1grc!19sChIJ94xVbhhawokRaDRb_Y6O1sA?authuser=0&hl=en&rclk=1",
+        "rating": 4.4,
+        "number_of_reviews": 1470,
+        "address": "195 Broadway, New York, NY 10007, United States",
+        "website": "noburestaurants.com",
+        "phone": "+12122190500",
+        "category": "Japanese restaurant",
+        "Opening_hours": "5:30 PM"
+    },
+    {
+        "restaurant_name": "JennaConnects",
+        "google_map_link_for_restaurant": "https://www.google.com/maps/place/JennaConnects/data=!4m7!3m6!1s0x89c25b73ab157dc9:0x44979d5b5c6f241a!8m2!3d40.7019044!4d-73.9844235!16s%2Fg%2F11q1h88r5f!19sChIJyX0Vq3NbwokRGiRvXFudl0Q?authuser=0&hl=en&rclk=1",
+        "rating": 2.0,
+        "number_of_reviews": 1,
+        "address": "79 Bridge St, Brooklyn, NY 11201, United States",
+        "website": "jennaconnects.com",
+        "phone": "",
+        "category": "Marketing agency",
+        "Opening_hours": "9 AM"
+    }
+]
